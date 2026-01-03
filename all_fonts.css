@@ -1,22 +1,22 @@
 /* ================= 全站字体总索引 (Master Index) ================= */
 /* 仓库: font-FB | 版本: v1.0 */
 
-/* 1. HOSSR (洪萌/全站主字体) */
+/* 1. HOSSR (洪萌/全站主字体 SiteCustomFont) */
 @import url('./HOSSR/result.css');
 
-/* 2. 造景悦 (MFJingYue) */
+/* 2. 造景悦 (MFJYT) */
 @import url('./MFJingYue/result.css');
 
-/* 3. 造尚黑 (MFShangHei) */
+/* 3. 造尚黑 (MFSHT) */
 @import url('./MFShangHei/result.css');
 
-/* 4. 造悦黑 (MFYueHei) */
+/* 4. 造悦黑 (MFYHT) */
 @import url('./MFYueHei/result.css');
 
 /* 5. Aa佩佩体 (AaPeiPei - 可爱风) */
 @import url('./AaPeiPei/result.css');
 
-/* 6. 造御毅 (MFYuYi) */
+/* 6. 造御毅 (MFYYT) */
 @import url('./MFYuYi/result.css');
 
 /* 7. 站酷高端黑 (ZHHYT) */
